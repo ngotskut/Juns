@@ -1,0 +1,17 @@
+{
+  "name": "june-auto-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "run": "node src/run.js",
+    "start": "node src/run.js"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "imapflow": "^1.0.163",
+    "mailparser": "^3.7.1",
+    "playwright": "^1.47.2"
+  }
+}
